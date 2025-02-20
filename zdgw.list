@@ -1,3 +1,10 @@
 # NAME: 自定走国外
-DOMAIN-SUFFIX,mailchimp.com
-DOMAIN-SUFFIX,justuno.com
+DOMAIN-SUFFIX,openai.com,AI
+DOMAIN-SUFFIX,palm.googleapis.com,AI
+DOMAIN-SUFFIX,gemini.google.com,AI
+DOMAIN-SUFFIX,azure.ai,AI
+DOMAIN-SUFFIX,huggingface.co,AI
+DOMAIN-SUFFIX,anthropic.com,AI
+DOMAIN-SUFFIX,xai.com,AI  # XAI服务
+DOMAIN-SUFFIX,x.ai,AI 
+DOMAIN-SUFFIX,grok.com,AI 
