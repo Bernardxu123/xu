@@ -1,8 +1,7 @@
-# NAME: 自定国内
 DOMAIN-SUFFIX,yuece.win
 DOMAIN-SUFFIX,byrut.org
 DOMAIN-SUFFIX,byrutgame.org
-DOMAIN-SUFFIX,clients
+DOMAIN-SUFFIX,clients.google.com
 DOMAIN-SUFFIX,update.googleapis.com
 DOMAIN-SUFFIX,dl.google.com
 DOMAIN-SUFFIX,clientservices.googleapis.com
