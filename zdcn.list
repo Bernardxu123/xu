@@ -10,3 +10,13 @@ DOMAIN-SUFFIX,download.microsoft.com
 DOMAIN-SUFFIX,swcdn.apple.com
 DOMAIN-SUFFIX,oscdn.apple.com
 DOMAIN-SUFFIX,updates.cdn-apple.com
+DOMAIN-SUFFIX,whinbrook.com
+DOMAIN,www.apple.com
+DOMAIN,apps.apple.com
+DOMAIN,itunes.apple.com
+DOMAIN,init.itunes.apple.com
+DOMAIN,bag.itunes.apple.com
+DOMAIN,xp.apple.com
+DOMAIN,mesu.apple.com
+DOMAIN,gs-loc.apple.com
+DOMAIN,configuration.apple.com
